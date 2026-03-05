@@ -1,5 +1,5 @@
 $(function () {
-  const texte = "Bienvenue à vous";
+  const texte = "Bienvenue sur mon site";
   const $target = $("#welcome");
   let i = 0;
 
@@ -48,5 +48,6 @@ $(function () {
       }
     }, 15); // vitesse (plus petit = plus rapide)
   });
+
 
 });
